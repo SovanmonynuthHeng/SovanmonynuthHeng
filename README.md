@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate **Digital Transformation Manager*
 * 🤝 **I’m looking to collaborate on:** Digital transformation projects, AI-driven business solutions, and enterprise software development.
 * 🤔 **I’m looking for help with:** Implementing cutting-edge AI/ML models in real-world enterprise applications, integrating AI with business, and optimizing digital            transformation strategies.
 * 💬 **Ask me about:** AI in business, quantum computing applications, and IT project management.
-* 📫 **How to reach me:** Feel free to connect on [LinkedIn](www.linkedin.com/in/sovanmonynuth-heng).
+* 📫 **How to reach me:** Feel free to connect on [LinkedIn](https://www.linkedin.com/in/sovanmonynuth-heng/).
 * ❤️ **I love:** Solving complex business challenges with technology, driving innovation, and mentoring the next generation of tech professionals.
 * ⚡ **Fun fact:** I once explored using quantum algorithms to optimize real-world business processes—turns out quantum solutions are not just theoretical but have fascinating practical applications!
 
