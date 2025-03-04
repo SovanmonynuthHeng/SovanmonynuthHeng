@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate **Digital Transformation Manager*
 
 ## About Me
 
-* 👂 **My name is Sovanmonynuth Heng**
+* 👂 **My name** is **Sovanmonynuth Heng**
 * 🎓 **Education:** Graduated from Pukyong National University, South Korea, with a Master of Engineering in AI Convergence.
 * 🔭 **I’m currently working on:** Digital transformation initiatives, leveraging emerging technologies to optimize business processes, enhance efficiency, and drive innovation.
 * 🌱 **I’m currently learning:** Advanced enterprise software architecture, AI-driven automation, and the latest trends in cloud-native applications and microservices.
@@ -23,13 +23,14 @@ Welcome to my GitHub profile! I'm a passionate **Digital Transformation Manager*
 
 ## Journal & Conference Articles
 
-- **How to Solve Combinatorial Optimization Problems Using Real Quantum Machines: A Recent Survey**  
-  *Published in [IEEE Access], [2022]*  
-  [View Publication](https://ieeexplore.ieee.org/document/9934910)  
-
 - **Quantum Autoencoder for Enhanced Fraud Detection in Imbalanced Credit Card Dataset**  
 *Published in [IEEE Access], [2024]*    
-  [View Publication](https://ieeexplore.ieee.org/abstract/document/10752554)  
+  [View Publication](https://ieeexplore.ieee.org/abstract/document/10752554)
+
+- **How to Solve Combinatorial Optimization Problems Using Real Quantum Machines: A Recent Survey**  
+*Published in [IEEE Access], [2022]*  
+  [View Publication](https://ieeexplore.ieee.org/document/9934910)  
+
 
 For a complete list of my publications, please visit my [Google Scholar Profile](https://scholar.google.com/citations?user=KEfjmk8AAAAJ&hl=en&authuser=1).
 
